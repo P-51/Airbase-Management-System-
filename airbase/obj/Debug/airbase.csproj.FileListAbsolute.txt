@@ -1,0 +1,24 @@
+E:\study material\SEM 5\Dot Net\Airbase_DBMS-project-master\airbase\bin\Debug\airbase.exe.config
+E:\study material\SEM 5\Dot Net\Airbase_DBMS-project-master\airbase\obj\Debug\airbase.csprojResolveAssemblyReference.cache
+E:\study material\SEM 5\Dot Net\Airbase_DBMS-project-master\airbase\obj\Debug\Add Route.g.cs
+E:\study material\SEM 5\Dot Net\Airbase_DBMS-project-master\airbase\obj\Debug\Add_aircraft.g.cs
+E:\study material\SEM 5\Dot Net\Airbase_DBMS-project-master\airbase\obj\Debug\add_countries.g.cs
+E:\study material\SEM 5\Dot Net\Airbase_DBMS-project-master\airbase\obj\Debug\Add_flight.g.cs
+E:\study material\SEM 5\Dot Net\Airbase_DBMS-project-master\airbase\obj\Debug\ADD_State.g.cs
+E:\study material\SEM 5\Dot Net\Airbase_DBMS-project-master\airbase\obj\Debug\Aircraft_view.g.cs
+E:\study material\SEM 5\Dot Net\Airbase_DBMS-project-master\airbase\obj\Debug\AIrFare.g.cs
+E:\study material\SEM 5\Dot Net\Airbase_DBMS-project-master\airbase\obj\Debug\Book Ticket.g.cs
+E:\study material\SEM 5\Dot Net\Airbase_DBMS-project-master\airbase\obj\Debug\Cancel_ticket1.g.cs
+E:\study material\SEM 5\Dot Net\Airbase_DBMS-project-master\airbase\obj\Debug\country_view.g.cs
+E:\study material\SEM 5\Dot Net\Airbase_DBMS-project-master\airbase\obj\Debug\employee_signup.g.cs
+E:\study material\SEM 5\Dot Net\Airbase_DBMS-project-master\airbase\obj\Debug\Flight_Schedule_view.g.cs
+E:\study material\SEM 5\Dot Net\Airbase_DBMS-project-master\airbase\obj\Debug\Login.g.cs
+E:\study material\SEM 5\Dot Net\Airbase_DBMS-project-master\airbase\obj\Debug\Menu.g.cs
+E:\study material\SEM 5\Dot Net\Airbase_DBMS-project-master\airbase\obj\Debug\Modify_or_delete_country.g.cs
+E:\study material\SEM 5\Dot Net\Airbase_DBMS-project-master\airbase\obj\Debug\Modify_or_delete_state.g.cs
+E:\study material\SEM 5\Dot Net\Airbase_DBMS-project-master\airbase\obj\Debug\passenger_signup.g.cs
+E:\study material\SEM 5\Dot Net\Airbase_DBMS-project-master\airbase\obj\Debug\State_view.g.cs
+E:\study material\SEM 5\Dot Net\Airbase_DBMS-project-master\airbase\obj\Debug\view employee.g.cs
+E:\study material\SEM 5\Dot Net\Airbase_DBMS-project-master\airbase\obj\Debug\App.g.cs
+E:\study material\SEM 5\Dot Net\Airbase_DBMS-project-master\airbase\obj\Debug\airbase_MarkupCompile.cache
+E:\study material\SEM 5\Dot Net\Airbase_DBMS-project-master\airbase\obj\Debug\airbase_MarkupCompile.lref
